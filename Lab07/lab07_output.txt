@@ -1,0 +1,15 @@
+LAB 07 - ASBURY RETROSPECTIVE TRAINING COMPARISON
+2024-12-31 closing prices / subsequently reported FY2024 GAAP diluted EPS
+USD per common share. No cash/debt bridge.
+Target: ABG
+Target observed P/E: 11.303721x
+AN P/E: 10.037825x
+GPI P/E: 11.450149x
+Peer median P/E: 10.743987x
+Minimum implied price: $215.81
+Median implied price: $231.00
+Maximum implied price: $246.18
+Implied range: $215.81-$246.18
+Median-implied minus target close: $-12.03
+Remove AN: $246.18; change $+15.18; single-peer reference; no range.
+Remove GPI: $215.81; change $-15.18; single-peer reference; no range.
