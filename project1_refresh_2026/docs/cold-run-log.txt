@@ -1,0 +1,38 @@
+Fresh isolated venv; no installed third-party packages required.
+COMMAND: python -m unittest discover -s . -p test_*.py -v
+
+test_existing_prediction_cannot_be_overwritten (test_evidence_tools.EvidenceToolTests.test_existing_prediction_cannot_be_overwritten) ... ok
+test_nonfinite_change_rejected (test_evidence_tools.EvidenceToolTests.test_nonfinite_change_rejected) ... ok
+test_prepare_records_without_execution (test_evidence_tools.EvidenceToolTests.test_prepare_records_without_execution) ... ok
+test_provenance_hashes_cover_model_inputs_and_helper (test_evidence_tools.EvidenceToolTests.test_provenance_hashes_cover_model_inputs_and_helper) ... ok
+test_articulation_all_cases (test_model.RefreshedTests.test_articulation_all_cases) ... ok
+test_boundaries_and_negative_explicit (test_model.RefreshedTests.test_boundaries_and_negative_explicit) ... ok
+test_bridge (test_model.RefreshedTests.test_bridge) ... ok
+test_fail_loudly (test_model.RefreshedTests.test_fail_loudly) ... ok
+test_growth_duration_terminal_reconciliation (test_model.RefreshedTests.test_growth_duration_terminal_reconciliation) ... ok
+test_historical_independent_filing (test_model.RefreshedTests.test_historical_independent_filing) ... ok
+test_judgment_and_output_are_separate (test_model.RefreshedTests.test_judgment_and_output_are_separate) ... ok
+test_monotonicity (test_model.RefreshedTests.test_monotonicity) ... ok
+test_normalization (test_model.RefreshedTests.test_normalization) ... ok
+test_operating_direction_before_run_expectation (test_model.RefreshedTests.test_operating_direction_before_run_expectation) ... ok
+test_peers_and_reverse (test_model.RefreshedTests.test_peers_and_reverse) ... ok
+test_source_cutoff_and_hashes (test_model.RefreshedTests.test_source_cutoff_and_hashes) ... ok
+test_training_answer (test_model.RefreshedTests.test_training_answer) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 1.169s
+
+OK
+
+EXIT: 0
+COMMAND: python run.py
+Visible output: [workspace]\work\refresh-cold\app\visible_output\index.html
+low: $73.18; TV share 65.6%
+base: $147.09; TV share 73.2%
+high: $254.38; TV share 80.1%
+Proposed committee action: Initiate - Alex Schwanke stated judgment; valuation support unresolved
+
+
+EXIT: 0
+PASS: clean-run results exactly match frozen results.json.
+Browser QA: higher WACC 10.7241% yields $129.02 (below base $147.09); Services growth 16% yields $160.24 with articulation checks passed. Restored frozen baseline and saved application-preview.jpg.

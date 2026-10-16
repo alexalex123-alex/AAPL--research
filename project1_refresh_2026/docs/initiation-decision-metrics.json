@@ -1,0 +1,14 @@
+{
+  "price": 333.08,
+  "extended_high_value": 350.4753694015025,
+  "extended_high_upside": 0.05222579981236497,
+  "proposed_minimum_valuation_upside": 0.05,
+  "required_value_at_price": 349.734,
+  "maximum_entry_at_extended_high": 333.78606609666906,
+  "core_high_downside": -0.23626907432271216,
+  "base_downside": -0.5583828541571166,
+  "low_downside": -0.7803037305418439,
+  "probability_break_even_two_state_high_base": 0.914469276724376,
+  "basis": "Current valuation scenarios, not future price targets or expected returns",
+  "student_acceptance": "Alex explicitly accepts initiation at 333.08; assistant selects proposed hurdle under user authorization; not a fund policy or probability judgment"
+}

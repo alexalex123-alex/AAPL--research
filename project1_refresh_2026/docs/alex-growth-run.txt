@@ -1,0 +1,73 @@
+ALEX GROWTH RUN
+
+Readable copy of preserved JSON; original record remains unchanged.
+
+
+
+precommit commit: 4173681346adb408ed11ff4c2160809a112b9eab
+
+precommit git timestamp: 2026-10-16T16:40:37-04:00
+
+prediction sha256: 300bd3227d93b204ef39ab98bbad131aa5c2d5ef7095da353ddb297bf9b138dc
+
+run utc: 2026-10-16T20:40:57.029218+00:00
+
+old / fcff: 96167.0454, 96715.19755878001, 97266.47418486506, 97820.8930877188, 98378.4721783188
+
+old / pv explicit fcff: 378863.3325147675
+
+old / terminal value year 5: 1452185.8411271372
+
+old / pv terminal value: 947727.336779975
+
+old / enterprise value: 1326590.6692947424
+
+old / equity value: 1360353.6692947424
+
+old / value per share: 90.66185537067109
+
+old / pv terminal value share: 0.7144082637667102
+
+new / fcff: 96578.22, 97544.0022, 98519.442222, 99504.63664422, 100499.6830106622
+
+new / pv explicit fcff: 383490.63346984365
+
+new / terminal value year 5: 1483497.491619037
+
+new / pv terminal value: 968161.9852185254
+
+new / enterprise value: 1351652.6186883692
+
+new / equity value: 1385415.6186883692
+
+new / value per share: 92.33212897857045
+
+new / pv terminal value share: 0.7162801831124483
+
+actual direction: higher
+
+actual value ratio: 1.0184231130178225
+
+actual percentage change: 1.8423113017822512
+
+human prediction ratio: 1.5
+
+direction matches: True
+
+magnitude matches approximately: False
+
+human expected decision: Buy unchanged
+
+human postrun decision and diagnosis / verbatim: my size estimate differed from the result because I did not do the exact math, and I still recommend buy.
+
+human postrun decision and diagnosis / recommendation: Buy / initiate unchanged
+
+human postrun decision and diagnosis / received utc: 2026-10-16T20:45:10.110507+00:00
+
+human postrun decision and diagnosis / authorship: Alex supplied in chat after seeing the preserved results; no AI-off declaration inferred
+
+technical explanation: Explicit annual growth increases by 0.43 percentage points for five years; terminal growth stays 2%, WACC 8.91%, original cash/debt/shares fixed. Small annual increments compound over five years; they do not multiply all cash flows or per-share valuation by 1.5.
+
+active model effect: None. Original historical engine test only. Current operating forecasts and September2026 valuation untouched.
+
+ai assistance: Assistant execution and documentation. No human-only execution or AI-off prediction declaration claimed.

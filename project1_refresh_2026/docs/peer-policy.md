@@ -1,0 +1,13 @@
+Historical policy carried forward; market and financial observations refreshed to September 14, 2026. This is not a claim that a new policy was recorded before the original work.
+
+# Peer policy - fixed before calculating multiples
+
+Decision date: October 31, 2025. Policy recorded during this reconstruction on October 13, 2026; this is not claimed to be a contemporaneous 2025 policy.
+
+Admit profitable, US-listed, USD-reporting operating companies with large consumer or enterprise digital ecosystems, recurring monetization, global distribution, and sufficient published accounts to calculate trailing GAAP EBIT and net income. Require information published by the valuation cutoff. Prefer ecosystem economics over a broad technology-sector label. Separate hardware exposure, capital intensity, regulation and growth; qualifications survive selection even if they weaken the cross-check.
+
+Exclude financial issuers, REITs, loss makers, private issuers, ADR/currency/share-class structures that cannot be reconciled, and pure component suppliers. Do not select or delete a peer because its multiple supports the recommendation. A two-company set is a sparse reference, not a statistically robust fair-value range. Do not infer a control premium from public trading prices.
+
+Definitions fixed in advance: equity capitalization = common share price times latest published point-in-time basic shares; P/E = that aggregate equity capitalization / trailing GAAP net income; EV = aggregate equity capitalization + interest-bearing debt - cash and liquid marketable securities; EV/EBIT = EV / trailing GAAP operating income. Operating leases stay in operating expenses and are excluded from debt for all companies. Nonmarketable strategic equity investments are excluded from cash. Use latest published balance-sheet debt and liquid assets. No forward/adjusted denominators or provider EV shortcuts. Aggregate P/E avoids mixing annual EPS weighted-average shares with a current capitalization. Label clarification after extraction: provider short-term/marketable securities tags are not presumed to contain exclusively debt securities; the consistent liquid marketable-securities policy is applied to every issuer.
+
+Market prices: October 31, 2025 unadjusted close. Earnings: latest published trailing twelve months, with fiscal-period differences disclosed. Review Alphabet's one-off gains in net income as a P/E limitation rather than changing only one denominator. Alphabet share classes require an explicit same-price proxy qualification or separate class pricing. No transaction multiple is used without acquisition-date, control and synergy reconciliation.

@@ -1,0 +1,1566 @@
+SOURCE LEDGER - READABLE COPY
+
+Definitions, observations and source references reproduced from data/fact_ledger.json. Original JSON remains unchanged.
+
+[
+  {
+    "ticker": "AAPL",
+    "tag": "CashAndCashEquivalentsAtCarryingValue",
+    "start": null,
+    "end": "2025-06-28",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 36269.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "MarketableSecuritiesCurrent",
+    "start": null,
+    "end": "2025-06-28",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 19103.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "AccountsReceivableNetCurrent",
+    "start": null,
+    "end": "2025-06-28",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 27557.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "NontradeReceivablesCurrent",
+    "start": null,
+    "end": "2025-06-28",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 19278.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "InventoryNet",
+    "start": null,
+    "end": "2025-06-28",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 5925.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "OtherAssetsCurrent",
+    "start": null,
+    "end": "2025-06-28",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 14359.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "MarketableSecuritiesNoncurrent",
+    "start": null,
+    "end": "2025-06-28",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 77614.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "PropertyPlantAndEquipmentNet",
+    "start": null,
+    "end": "2025-06-28",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 48508.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "OtherAssetsNoncurrent",
+    "start": null,
+    "end": "2025-06-28",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 82882.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "AccountsPayableCurrent",
+    "start": null,
+    "end": "2025-06-28",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 50374.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "OtherLiabilitiesCurrent",
+    "start": null,
+    "end": "2025-06-28",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 62499.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "ContractWithCustomerLiabilityCurrent",
+    "start": null,
+    "end": "2025-06-28",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 8979.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "CommercialPaper",
+    "start": null,
+    "end": "2025-06-28",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 9923.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "LongTermDebtCurrent",
+    "start": null,
+    "end": "2025-06-28",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 9345.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "LongTermDebtNoncurrent",
+    "start": null,
+    "end": "2025-06-28",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 82430.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "OtherLiabilitiesNoncurrent",
+    "start": null,
+    "end": "2025-06-28",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 42115.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "StockholdersEquity",
+    "start": null,
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 65830.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "Assets",
+    "start": null,
+    "end": "2025-06-28",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 331495.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "Liabilities",
+    "start": null,
+    "end": "2025-06-28",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 265665.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "start": "2023-10-01",
+    "end": "2024-09-28",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 391035.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 313695.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "start": "2023-10-01",
+    "end": "2024-06-29",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 296105.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "OperatingIncomeLoss",
+    "start": "2023-10-01",
+    "end": "2024-09-28",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 123216.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "OperatingIncomeLoss",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 100623.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "OperatingIncomeLoss",
+    "start": "2023-10-01",
+    "end": "2024-06-29",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 93625.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "NetIncomeLoss",
+    "start": "2023-10-01",
+    "end": "2024-09-28",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 93736.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "NetIncomeLoss",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 84544.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "NetIncomeLoss",
+    "start": "2023-10-01",
+    "end": "2024-06-29",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 79000.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+    "start": "2023-10-01",
+    "end": "2024-09-28",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 123485.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 99925.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+    "start": "2023-10-01",
+    "end": "2024-06-29",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 93875.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "IncomeTaxExpenseBenefit",
+    "start": "2023-10-01",
+    "end": "2024-09-28",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 29749.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "IncomeTaxExpenseBenefit",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 15381.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "IncomeTaxExpenseBenefit",
+    "start": "2023-10-01",
+    "end": "2024-06-29",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 14875.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "DepreciationDepletionAndAmortization",
+    "start": "2023-10-01",
+    "end": "2024-09-28",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 11445.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "DepreciationDepletionAndAmortization",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 8571.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "DepreciationDepletionAndAmortization",
+    "start": "2023-10-01",
+    "end": "2024-06-29",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 8534.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "start": "2023-10-01",
+    "end": "2024-09-28",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 9447.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 9473.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "start": "2023-10-01",
+    "end": "2024-06-29",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 6539.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "NetCashProvidedByUsedInOperatingActivities",
+    "start": "2023-10-01",
+    "end": "2024-09-28",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 118254.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "NetCashProvidedByUsedInOperatingActivities",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 81754.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "NetCashProvidedByUsedInOperatingActivities",
+    "start": "2023-10-01",
+    "end": "2024-06-29",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 91443.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "NetCashProvidedByUsedInInvestingActivities",
+    "start": "2023-10-01",
+    "end": "2024-09-28",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 2935.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "NetCashProvidedByUsedInInvestingActivities",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 17782.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "NetCashProvidedByUsedInInvestingActivities",
+    "start": "2023-10-01",
+    "end": "2024-06-29",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 1490.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "NetCashProvidedByUsedInFinancingActivities",
+    "start": "2023-10-01",
+    "end": "2024-09-28",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": -121983.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "NetCashProvidedByUsedInFinancingActivities",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": -93210.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "NetCashProvidedByUsedInFinancingActivities",
+    "start": "2023-10-01",
+    "end": "2024-06-29",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": -97035.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "ShareBasedCompensation",
+    "start": "2023-10-01",
+    "end": "2024-09-28",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 11688.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "ShareBasedCompensation",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 9680.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "ShareBasedCompensation",
+    "start": "2023-10-01",
+    "end": "2024-06-29",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 8830.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "ResearchAndDevelopmentExpense",
+    "start": "2023-10-01",
+    "end": "2024-09-28",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 31370.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "ResearchAndDevelopmentExpense",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 25684.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "ResearchAndDevelopmentExpense",
+    "start": "2023-10-01",
+    "end": "2024-06-29",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 23605.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "SellingGeneralAndAdministrativeExpense",
+    "start": "2023-10-01",
+    "end": "2024-09-28",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 26097.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "SellingGeneralAndAdministrativeExpense",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 20553.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "SellingGeneralAndAdministrativeExpense",
+    "start": "2023-10-01",
+    "end": "2024-06-29",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 19574.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "PaymentsOfDividends",
+    "start": "2023-10-01",
+    "end": "2024-09-28",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 15234.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "PaymentsOfDividends",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 11559.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "PaymentsOfDividends",
+    "start": "2023-10-01",
+    "end": "2024-06-29",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 11430.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "PaymentsForRepurchaseOfCommonStock",
+    "start": "2023-10-01",
+    "end": "2024-09-28",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 94949.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "PaymentsForRepurchaseOfCommonStock",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 70579.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "PaymentsForRepurchaseOfCommonStock",
+    "start": "2023-10-01",
+    "end": "2024-06-29",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 69866.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+    "start": null,
+    "end": "2024-06-29",
+    "filed": "2025-08-01",
+    "accession": "0000320193-25-000073",
+    "value": 26635.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "CashAndCashEquivalentsAtCarryingValue",
+    "start": null,
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 39544.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "MarketableSecuritiesCurrent",
+    "start": null,
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 22855.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "AccountsReceivableNetCurrent",
+    "start": null,
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 31398.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "NontradeReceivablesCurrent",
+    "start": null,
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 27509.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "InventoryNet",
+    "start": null,
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 11092.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "OtherAssetsCurrent",
+    "start": null,
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 17420.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "MarketableSecuritiesNoncurrent",
+    "start": null,
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 84118.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "PropertyPlantAndEquipmentNet",
+    "start": null,
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 51431.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "OtherAssetsNoncurrent",
+    "start": null,
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 77557.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "AccountsPayableCurrent",
+    "start": null,
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 64525.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "OtherLiabilitiesCurrent",
+    "start": null,
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 62259.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "ContractWithCustomerLiabilityCurrent",
+    "start": null,
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 9538.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "CommercialPaper",
+    "start": null,
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 1997.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "LongTermDebtCurrent",
+    "start": null,
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 11007.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "LongTermDebtNoncurrent",
+    "start": null,
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 71340.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "OtherLiabilitiesNoncurrent",
+    "start": null,
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 55080.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "StockholdersEquity",
+    "start": null,
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 107520.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "Assets",
+    "start": null,
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 383266.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "Liabilities",
+    "start": null,
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 275746.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "start": "2024-09-29",
+    "end": "2025-09-27",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 416161.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "start": "2025-09-28",
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 364357.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 313695.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "OperatingIncomeLoss",
+    "start": "2024-09-29",
+    "end": "2025-09-27",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 133050.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "OperatingIncomeLoss",
+    "start": "2025-09-28",
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 122432.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "OperatingIncomeLoss",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 100623.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "NetIncomeLoss",
+    "start": "2024-09-29",
+    "end": "2025-09-27",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 112010.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "NetIncomeLoss",
+    "start": "2025-09-28",
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 101464.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "NetIncomeLoss",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 84544.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+    "start": "2024-09-29",
+    "end": "2025-09-27",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 132729.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+    "start": "2025-09-28",
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 123102.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 99925.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "IncomeTaxExpenseBenefit",
+    "start": "2024-09-29",
+    "end": "2025-09-27",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 20719.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "IncomeTaxExpenseBenefit",
+    "start": "2025-09-28",
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 21638.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "IncomeTaxExpenseBenefit",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 15381.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "DepreciationDepletionAndAmortization",
+    "start": "2024-09-29",
+    "end": "2025-09-27",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 11698.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "DepreciationDepletionAndAmortization",
+    "start": "2025-09-28",
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 9973.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "DepreciationDepletionAndAmortization",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 8571.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "start": "2024-09-29",
+    "end": "2025-09-27",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 12715.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "start": "2025-09-28",
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 6799.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 9473.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "NetCashProvidedByUsedInOperatingActivities",
+    "start": "2024-09-29",
+    "end": "2025-09-27",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 111482.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "NetCashProvidedByUsedInOperatingActivities",
+    "start": "2025-09-28",
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 116996.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "NetCashProvidedByUsedInOperatingActivities",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 81754.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "NetCashProvidedByUsedInInvestingActivities",
+    "start": "2024-09-29",
+    "end": "2025-09-27",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 15195.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "NetCashProvidedByUsedInInvestingActivities",
+    "start": "2025-09-28",
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": -18811.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "NetCashProvidedByUsedInInvestingActivities",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 17782.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "NetCashProvidedByUsedInFinancingActivities",
+    "start": "2024-09-29",
+    "end": "2025-09-27",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": -120686.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "NetCashProvidedByUsedInFinancingActivities",
+    "start": "2025-09-28",
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": -94575.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "NetCashProvidedByUsedInFinancingActivities",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": -93210.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "ShareBasedCompensation",
+    "start": "2024-09-29",
+    "end": "2025-09-27",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 12863.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "ShareBasedCompensation",
+    "start": "2025-09-28",
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 10523.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "ShareBasedCompensation",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 9680.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "ResearchAndDevelopmentExpense",
+    "start": "2024-09-29",
+    "end": "2025-09-27",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 34550.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "ResearchAndDevelopmentExpense",
+    "start": "2025-09-28",
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 34035.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "ResearchAndDevelopmentExpense",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 25684.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "SellingGeneralAndAdministrativeExpense",
+    "start": "2024-09-29",
+    "end": "2025-09-27",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 27601.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "SellingGeneralAndAdministrativeExpense",
+    "start": "2025-09-28",
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 22315.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "SellingGeneralAndAdministrativeExpense",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 20553.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "PaymentsOfDividends",
+    "start": "2024-09-29",
+    "end": "2025-09-27",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 15421.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "PaymentsOfDividends",
+    "start": "2025-09-28",
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 11778.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "PaymentsOfDividends",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 11559.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "PaymentsForRepurchaseOfCommonStock",
+    "start": "2024-09-29",
+    "end": "2025-09-27",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 90711.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "PaymentsForRepurchaseOfCommonStock",
+    "start": "2025-09-28",
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 62094.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "PaymentsForRepurchaseOfCommonStock",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 70579.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+    "start": null,
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 36269.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "EntityCommonStockSharesOutstanding",
+    "start": null,
+    "end": "2026-07-17",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 14594.18,
+    "units": "million shares"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+    "start": "2024-09-29",
+    "end": "2025-09-27",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 15004.697,
+    "units": "million shares"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+    "start": "2025-09-28",
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 14750.302,
+    "units": "million shares"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "WeightedAverageNumberOfDilutedSharesOutstanding",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 15051.726,
+    "units": "million shares"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "WeightedAverageNumberOfSharesOutstandingBasic",
+    "start": "2024-09-29",
+    "end": "2025-09-27",
+    "filed": "2025-10-31",
+    "accession": "0000320193-25-000079",
+    "value": 14948.5,
+    "units": "million shares"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "WeightedAverageNumberOfSharesOutstandingBasic",
+    "start": "2025-09-28",
+    "end": "2026-06-27",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 14692.515,
+    "units": "million shares"
+  },
+  {
+    "ticker": "AAPL",
+    "tag": "WeightedAverageNumberOfSharesOutstandingBasic",
+    "start": "2024-09-29",
+    "end": "2025-06-28",
+    "filed": "2026-07-31",
+    "accession": "0000320193-26-000020",
+    "value": 14992.898,
+    "units": "million shares"
+  },
+  {
+    "ticker": "MSFT",
+    "tag": "CashAndCashEquivalentsAtCarryingValue",
+    "start": null,
+    "end": "2026-06-30",
+    "filed": "2026-07-29",
+    "accession": "0001193125-26-323660",
+    "value": 20935.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "MSFT",
+    "tag": "ShortTermInvestments",
+    "start": null,
+    "end": "2026-06-30",
+    "filed": "2026-07-29",
+    "accession": "0001193125-26-323660",
+    "value": 55908.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "MSFT",
+    "tag": "LongTermDebtCurrent",
+    "start": null,
+    "end": "2026-06-30",
+    "filed": "2026-07-29",
+    "accession": "0001193125-26-323660",
+    "value": 9227.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "MSFT",
+    "tag": "LongTermDebtNoncurrent",
+    "start": null,
+    "end": "2026-06-30",
+    "filed": "2026-07-29",
+    "accession": "0001193125-26-323660",
+    "value": 31067.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "MSFT",
+    "tag": "EntityCommonStockSharesOutstanding",
+    "start": null,
+    "end": "2026-07-23",
+    "filed": "2026-07-29",
+    "accession": "0001193125-26-323660",
+    "value": 7425.545491,
+    "units": "million shares"
+  },
+  {
+    "ticker": "MSFT",
+    "tag": "NetIncomeLoss",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "filed": "2026-07-29",
+    "accession": "0001193125-26-323660",
+    "value": 133749.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "MSFT",
+    "tag": "OperatingIncomeLoss",
+    "start": "2025-07-01",
+    "end": "2026-06-30",
+    "filed": "2026-07-29",
+    "accession": "0001193125-26-323660",
+    "value": 155237.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "GOOGL",
+    "tag": "CashAndCashEquivalentsAtCarryingValue",
+    "start": null,
+    "end": "2026-06-30",
+    "filed": "2026-07-23",
+    "accession": "0001652044-26-000071",
+    "value": 55911.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "GOOGL",
+    "tag": "MarketableSecuritiesCurrent",
+    "start": null,
+    "end": "2026-06-30",
+    "filed": "2026-07-23",
+    "accession": "0001652044-26-000071",
+    "value": 186563.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "GOOGL",
+    "tag": "LongTermDebtCurrent",
+    "start": null,
+    "end": "2026-06-30",
+    "filed": "2026-07-23",
+    "accession": "0001652044-26-000071",
+    "value": 1999.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "GOOGL",
+    "tag": "LongTermDebtNoncurrent",
+    "start": null,
+    "end": "2026-06-30",
+    "filed": "2026-07-23",
+    "accession": "0001652044-26-000071",
+    "value": 98165.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "GOOGL",
+    "tag": "CommercialPaper",
+    "start": null,
+    "end": "2026-06-30",
+    "filed": "2026-07-23",
+    "accession": "0001652044-26-000071",
+    "value": 0.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "GOOGL",
+    "tag": "CommonStockSharesOutstanding",
+    "start": null,
+    "end": "2026-06-30",
+    "filed": "2026-07-23",
+    "accession": "0001652044-26-000071",
+    "value": 12230.0,
+    "units": "million shares"
+  },
+  {
+    "ticker": "GOOGL",
+    "tag": "NetIncomeLoss",
+    "start": "2025-01-01",
+    "end": "2025-12-31",
+    "filed": "2026-04-24",
+    "accession": "0001308179-26-000342",
+    "value": 132170.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "GOOGL",
+    "tag": "NetIncomeLoss",
+    "start": "2026-01-01",
+    "end": "2026-06-30",
+    "filed": "2026-07-23",
+    "accession": "0001652044-26-000071",
+    "value": 174771.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "GOOGL",
+    "tag": "NetIncomeLoss",
+    "start": "2025-01-01",
+    "end": "2025-06-30",
+    "filed": "2026-07-23",
+    "accession": "0001652044-26-000071",
+    "value": 62736.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "GOOGL",
+    "tag": "OperatingIncomeLoss",
+    "start": "2025-01-01",
+    "end": "2025-12-31",
+    "filed": "2026-02-05",
+    "accession": "0001652044-26-000018",
+    "value": 129039.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "GOOGL",
+    "tag": "OperatingIncomeLoss",
+    "start": "2026-01-01",
+    "end": "2026-06-30",
+    "filed": "2026-07-23",
+    "accession": "0001652044-26-000071",
+    "value": 80466.0,
+    "units": "USD millions"
+  },
+  {
+    "ticker": "GOOGL",
+    "tag": "OperatingIncomeLoss",
+    "start": "2025-01-01",
+    "end": "2025-06-30",
+    "filed": "2026-07-23",
+    "accession": "0001652044-26-000071",
+    "value": 61877.0,
+    "units": "USD millions"
+  }
+]

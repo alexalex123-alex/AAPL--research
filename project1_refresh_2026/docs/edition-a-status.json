@@ -1,0 +1,19 @@
+{
+  "status": "No successful Brightspace receipt supplied",
+  "permission": "Alex reports on-time AI-assisted submission permitted, October16 2026",
+  "prior_preserved_files": [
+    {
+      "path": "outputs/AAPL-research/project1/docs/prior-Edition-A-report-unchanged.md",
+      "sha256": "cff92caa7ffa1446aca7ba7cc310511496e76af782db0f295740ade6e58abb2c"
+    },
+    {
+      "path": "outputs/AAPL-research/project1/docs/Edition-A-draft.pdf",
+      "sha256": "1024a5ac55269bbc59637b312720306113762c8392021a0c80254b178efea354"
+    }
+  ],
+  "current_candidate": "Edition-A-Current-Draft.pdf",
+  "first_successful_receipt": null,
+  "submitted_file_sha256": null,
+  "checkpoint_url": null,
+  "candidate_sha256": "e0d5518b34bc74f897e23e0c22d68702989a9b657c654f45275017ffea8b49bd"
+}

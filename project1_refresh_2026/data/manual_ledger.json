@@ -1,0 +1,44 @@
+{
+  "source": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+  "filed": "2026-07-31",
+  "units": "USD millions",
+  "ttm_formula": "FY2025 plus9m2026 minus9m2025",
+  "category_ytd": {
+    "iphone": [
+      196515,
+      160561
+    ],
+    "mac": [
+      27137,
+      24982
+    ],
+    "ipad": [
+      21700,
+      21071
+    ],
+    "wearables": [
+      27277,
+      26673
+    ],
+    "services": [
+      91728,
+      80408
+    ],
+    "products": [
+      272629,
+      233287
+    ],
+    "products_gp": [
+      108819,
+      86190
+    ],
+    "services_gp": [
+      69963,
+      60670
+    ]
+  },
+  "intangible_balance": 20342,
+  "other_noncurrent_reported": 77557,
+  "source_sections": "Statements p.3; category disclosure/MD&A pp.6/15-16",
+  "normalization_label": "Margin reserve and D&A split are judgments, not reported adjustments"
+}

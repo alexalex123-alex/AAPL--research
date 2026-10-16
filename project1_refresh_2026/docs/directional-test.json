@@ -1,0 +1,79 @@
+{
+  "author": "Codex AI-assisted technical test",
+  "human_locked_requirement": "NOT SATISFIED",
+  "run_utc": "2026-10-16T19:56:06.876827+00:00",
+  "valuation_date": "2026-09-14",
+  "input": "iphone_growth",
+  "old": [
+    0.1,
+    0.09,
+    0.08,
+    0.07,
+    0.06
+  ],
+  "new": [
+    0.12000000000000001,
+    0.11,
+    0.1,
+    0.09000000000000001,
+    0.08
+  ],
+  "units": "fractional annual growth, FY decision periods1-5; +0.02 means+2 percentage points",
+  "expectation": "Before this technical execution: +2 percentage points to every annual iPhone growth input raises final EBIT, FCFF and value at fixed other independent inputs.",
+  "before": {
+    "fcff": [
+      122948.49416738028,
+      137237.0803985832,
+      151505.43452777492,
+      165755.92312566884,
+      179755.9337155546
+    ],
+    "pv_explicit": 568112.1620740325,
+    "terminal_fcff": 178611.92604213711,
+    "terminal_value": 2472430.640682378,
+    "pv_terminal": 1554580.1892206385,
+    "ev": 2122692.351294671,
+    "nonoperating_assets": 116517.0,
+    "debt": 84344.0,
+    "equity": 2154865.351294671,
+    "shares": 14649.59625,
+    "per_share": 147.09383893734758,
+    "terminal_share": 0.7323624585882499,
+    "terminal_nopat": 194849.3738641496,
+    "terminal_reinvestment": 16237.447822012473
+  },
+  "after": {
+    "fcff": [
+      123625.54379393416,
+      138768.3269287962,
+      154068.65781842807,
+      169524.2412024481,
+      184891.1276600836
+    ],
+    "pv_explicit": 577770.0503171021,
+    "terminal_fcff": 184408.90044519686,
+    "terminal_value": 2552675.0983452727,
+    "pv_terminal": 1605035.171506031,
+    "ev": 2182805.221823133,
+    "nonoperating_assets": 116517.0,
+    "debt": 84344.0,
+    "equity": 2214978.221823133,
+    "shares": 14649.59625,
+    "per_share": 151.19721963826362,
+    "terminal_share": 0.7353084716214238,
+    "terminal_nopat": 201173.34594021476,
+    "terminal_reinvestment": 16764.44549501789
+  },
+  "final_ebit_before": 231825.54891629933,
+  "final_ebit_after": 239349.608495199,
+  "final_fcff_before": 179755.9337155546,
+  "final_fcff_after": 184891.1276600836,
+  "actual_direction": "higher",
+  "before_model_rule_action": "Watch/defer",
+  "after_model_rule_action": "Watch/defer",
+  "student_stated_action": "Initiate; no new post-run human decision is claimed",
+  "diagnosis": "Technical direction matches expectation. A higher value does not establish sufficient value versus market price, and no rule automatically overwrites the student judgment.",
+  "model_sha256": "870a333e25acd2ec063dec8886d8066194c22d1a55ac725ad706d2e3042df48e",
+  "inputs_sha256": "3a9d0d5eaa7b78b412279245b2082bceaa403129cc199cc836e5c08f11f3f426",
+  "validation_history": "The same direction was also tested in the unit suite; this is a preserved technical demonstration, not a first-ever human precommit"
+}

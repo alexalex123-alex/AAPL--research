@@ -1,0 +1,62 @@
+[
+  {
+    "file": "AAPL_companyfacts.json",
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000320193.json",
+    "retrieved_utc": "2026-10-16T19:40:20.360490+00:00",
+    "sha256": "73a86c6aedc31f77cac2ea4df5f80f0b3bd7e6eb58bb4e01444fbedf3afb9c43"
+  },
+  {
+    "file": "MSFT_companyfacts.json",
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000789019.json",
+    "retrieved_utc": "2026-10-16T19:40:20.897865+00:00",
+    "sha256": "f8aae2965b20ad0df44bdf7ccbedf797d275b6b8dc030154a7a311361bb7246f"
+  },
+  {
+    "file": "GOOGL_companyfacts.json",
+    "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
+    "retrieved_utc": "2026-10-16T19:40:21.616509+00:00",
+    "sha256": "a017f26ee88cb4a639d1c1ddb06d53b4afe22f0ac89cabec7cd67c88919fe1c5"
+  },
+  {
+    "file": "AAPL_daily.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/AAPL?period1=1789084800&period2=1789516800&interval=1d",
+    "retrieved_utc": "2026-10-16T19:40:21.819433+00:00",
+    "sha256": "2ffa0bed4b1c6286955f7b2340ac3d372dea37db99c5fb1593d4d2409ca84973"
+  },
+  {
+    "file": "MSFT_daily.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/MSFT?period1=1789084800&period2=1789516800&interval=1d",
+    "retrieved_utc": "2026-10-16T19:40:21.977505+00:00",
+    "sha256": "95708248806ad4e6f14f2f4b8ea0ae4560423016c346f9814b8e57d34a7a9b1d"
+  },
+  {
+    "file": "GOOGL_daily.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/GOOGL?period1=1789084800&period2=1789516800&interval=1d",
+    "retrieved_utc": "2026-10-16T19:40:22.180106+00:00",
+    "sha256": "1db2cec485bec971b2af5372de358ad33c22007d8ff36b70d45a73ba03561573"
+  },
+  {
+    "file": "AAPL_monthly.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/AAPL?period1=1630454400&period2=1788220800&interval=1mo",
+    "retrieved_utc": "2026-10-16T19:40:22.371073+00:00",
+    "sha256": "f6a16d72c3c94fe2d85d3b41869fd0ef0f613ed8badadea89ee4edb6a8becabf"
+  },
+  {
+    "file": "SPY_monthly.json",
+    "url": "https://query1.finance.yahoo.com/v8/finance/chart/SPY?period1=1630454400&period2=1788220800&interval=1mo",
+    "retrieved_utc": "2026-10-16T19:40:22.576793+00:00",
+    "sha256": "17300964b912e15d3d3e09adac10d082528fa7574a9196e87ea4faffca043e28"
+  },
+  {
+    "file": "treasury_sep2026.html",
+    "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=202609",
+    "retrieved_utc": "2026-10-16T19:40:41.075885+00:00",
+    "sha256": "b6910d7643a7cefce8a63c956ffb44e31e70036e35863f7768419e555d3bbf7a"
+  },
+  {
+    "file": "AAPL_Q3_2026.html",
+    "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+    "retrieved_utc": "2026-10-16T19:40:41.394615+00:00",
+    "sha256": "40c9a3cbbb8eadfafd4e7fdb9e066e574f06698f259c76930d0aad63d431fda0"
+  }
+]
